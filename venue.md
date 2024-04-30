@@ -9,7 +9,7 @@ cover-img: [/assets/img/iceland-4436790_1920.jpg,
 ---
 
 ### Conference Venue
-The conference is hosted by the [University of Island](https://english.hi.is/) (Háskóla Íslands, HI). The main conference track will taking place in [Gróska building](https://groska.is/en/), an innovation hub on University campus. 
+The conference is hosted by the [University of Island](https://english.hi.is/) (Háskóla Íslands, HI). The main conference track will taking place in [Gróska building](https://groska.is/en/), an innovation hub within the University campus. 
 
 ### Accommodation
 Here we will suggest some hotels.
