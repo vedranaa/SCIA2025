@@ -3,13 +3,13 @@
 title: SCIA 2025
 
 navbar-links:
-  Dates: "dates"
-  Submission: "submission"
-  Registration: "registration"
-  Program: "program"
-  Venue: "venue"
-  Organization: "organization"
-  Sponsors: "sponsors"
+#  Dates: "dates"
+#  Submission: "submission"
+#  Registration: "registration"
+#  Program: "program"
+#  Venue: "venue"
+#  Organization: "organization"
+#  Sponsors: "sponsors"
   
 # Image to show in the navigation bar - works best with a square image
 # avatar: "/assets/img/avatar-icon.png"
