@@ -7,7 +7,7 @@ description: June 2025
 cover-img: /assets/img/iceland-3905006_1920.jpg
 ---
 
-This is the old (tryout) page for SCIA2025. The actual page is [https://scia2025.org/](https://scia2025.org/).
+This is the old (tryout) page for SCIA2025. The actual page is [scia2025.org](https://scia2025.org/).
 
 <!--
 
