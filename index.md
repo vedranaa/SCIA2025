@@ -7,6 +7,9 @@ description: June 2025
 cover-img: /assets/img/iceland-3905006_1920.jpg
 ---
 
+This is the old (tryout) page for SCIA2025. The actual page is [https://scia2025.org/](https://scia2025.org/).
+
+<!--
 
 Welcome to the Scandinavian Conference on Image Analysis 2025. The main conference will be held from June 9th to June 11th, 2025, at the University of Iceland, in Reykjavík, Island.
 
@@ -40,3 +43,5 @@ The conference program will feature top invited speakers and high-quality scient
 - **Insightful and Broad Exposure**: Learn from top experts about cutting-edge research in image analysis and its applications in healthcare, environmental monitoring, and automation, broadening your perspective.
 - **Revamped Presentation Format**: Alongside the classical SCIA submission format, for the first time, SCIA 2025 offers authors the unique opportunity to present their recently published works. This new session format enhances knowledge sharing and provides further visibility to cutting-edge research in image analysis.
 - **Inspirational Environment**: Enjoy the stunning landscapes and vibrant culture of Iceland, which provide a perfect backdrop for inspiration and discovery. 
+
+-->
